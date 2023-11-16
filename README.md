@@ -65,7 +65,7 @@ If you want to add new function after complete to implement below function, it's
 1. Give the administrator privileges of the repository to the following Github ids.  
  ・ ojimac<br>
 1. Create `develop` branch from main.
-1. Create the feature branch for your develop branch, submit a pull request as appropriate, and merge it into your develop branch.
+1. Create the `feature` branch for your develop branch, submit a pull request as appropriate, and merge it into your develop branch.
 1. When development is complete, create a Pull request from develop branch to main branch, and write Appeal Points, Implemented Features, Unimplemented Features and Impressions for this webapp test to the Pull request overview.
 
 ## How to start the development environment
